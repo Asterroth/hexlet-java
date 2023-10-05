@@ -6,8 +6,8 @@ public class ArraysEx02 {
     public static void main(String[] args) {
         int[] numbers1 = {2};
         int[] numbers2 = {1, 2, 6, 99};
-        System.out.println(Arrays.toString(swap(numbers_1)));
-        System.out.println(Arrays.toString(swap(numbers_2)));
+        System.out.println(Arrays.toString(swap(numbers1)));
+        System.out.println(Arrays.toString(swap(numbers2)));
     }
 
     public static int[] swap(int[] numbers) {
