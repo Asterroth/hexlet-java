@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="edit README">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays_Ex01.java" afterDir="false" />
+    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Ex #1 of Arrays theme">
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysEx03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexlet-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hexlet-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Arrays_Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ArraysEx01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/am/hexlet-java/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/am/hexlet-java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,13 +73,22 @@
       <option name="project" value="LOCAL" />
       <updated>1696277653915</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Ex #1 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696411884571</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696411884571</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hexlet-java" />
     <MESSAGE value="add README" />
     <MESSAGE value="edit README" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit README" />
+    <MESSAGE value="add Ex #1 of Arrays theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Ex #1 of Arrays theme" />
   </component>
 </project>
