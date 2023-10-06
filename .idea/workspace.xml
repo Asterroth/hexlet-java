@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Ex #6 of Arrays theme">
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysEx07.java" afterDir="false" />
+    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="edit README">
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysEx08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +34,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "/home/am/hexlet-java/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
-  },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
-    ]
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -79,66 +72,13 @@
       <option name="project" value="LOCAL" />
       <updated>1696277653915</updated>
     </task>
-    <task id="LOCAL-00004" summary="add Ex #1 of Arrays theme">
-      <option name="closed" value="true" />
-      <created>1696411884571</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1696411884571</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add Ex #2 and 3 of Arrays theme">
-      <option name="closed" value="true" />
-      <created>1696525698856</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1696525698856</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add Ex #2 and 3 of Arrays theme">
-      <option name="closed" value="true" />
-      <created>1696525882200</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1696525882200</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add Ex #4 of Arrays theme">
-      <option name="closed" value="true" />
-      <created>1696529090900</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1696529090901</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add Ex #5 of Arrays theme">
-      <option name="closed" value="true" />
-      <created>1696532271350</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1696532271350</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add Ex #6 of Arrays theme">
-      <option name="closed" value="true" />
-      <created>1696536573607</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1696536573607</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hexlet-java" />
     <MESSAGE value="add README" />
     <MESSAGE value="edit README" />
-    <MESSAGE value="add Ex #1 of Arrays theme" />
-    <MESSAGE value="add Ex #2 and 3 of Arrays theme" />
-    <MESSAGE value="add Ex #4 of Arrays theme" />
-    <MESSAGE value="add Ex #5 of Arrays theme" />
-    <MESSAGE value="add Ex #6 of Arrays theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Ex #6 of Arrays theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit README" />
   </component>
 </project>
