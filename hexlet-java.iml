@@ -7,6 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="apache-maven-3.9" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.12.0" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="bb465a8d-027d-4d4a-986b-954866ec9cf1" />

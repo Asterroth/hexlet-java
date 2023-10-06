@@ -4,14 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Ex #6 of Arrays theme">
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysEx09.java" afterDir="false" />
+    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Ex #10 of Arrays theme">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2af4a7c8dee884e9f82854ba711f13330a3c8e7a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/3902f6946a3d431f98c7bd34d02ff6b3777804d7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b11afb400863a9bc4e530ccbc32a0a923e5f768" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b6481185e90c7a27324abd9c315108ec56f613f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5db3d950452f10157e6c9f8e2069fd09b820b400" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76afdf0cfed9b20e79ebfd92db2dba71a7a99fe7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/776016755267b69adf8e6ce375fcb2233048f7c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/818d8221fd402f854d6f8bb439b6f0ad4d613bbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a003fc405802a72a9594a743b1a29b1dc035251b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1f45a8b361d554410fb229eb4712edb29cd2392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5bc6bdf1559664ca42e9a28a1714eb5c66c318b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/a/2af4a7c8dee884e9f82854ba711f13330a3c8e7a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/9/3902f6946a3d431f98c7bd34d02ff6b3777804d7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/b/4b11afb400863a9bc4e530ccbc32a0a923e5f768" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/b/5b6481185e90c7a27324abd9c315108ec56f613f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/d/5db3d950452f10157e6c9f8e2069fd09b820b400" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/6/76afdf0cfed9b20e79ebfd92db2dba71a7a99fe7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/7/776016755267b69adf8e6ce375fcb2233048f7c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/1/818d8221fd402f854d6f8bb439b6f0ad4d613bbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/0/a003fc405802a72a9594a743b1a29b1dc035251b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/1/c1f45a8b361d554410fb229eb4712edb29cd2392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/5/e5bc6bdf1559664ca42e9a28a1714eb5c66c318b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysEx10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexlet-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hexlet-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,12 +61,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/am/.mvnvm/apache-maven-3.9.4&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/am/hexlet-java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
@@ -127,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696536573607</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add Ex #10 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696616604389</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696616604389</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +183,7 @@
     <MESSAGE value="add Ex #4 of Arrays theme" />
     <MESSAGE value="add Ex #5 of Arrays theme" />
     <MESSAGE value="add Ex #6 of Arrays theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Ex #6 of Arrays theme" />
+    <MESSAGE value="add Ex #10 of Arrays theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Ex #10 of Arrays theme" />
   </component>
 </project>
