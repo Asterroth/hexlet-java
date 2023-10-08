@@ -55,3 +55,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 J
 src/arrays/ArraysEx11.java,0/1/01da6cac60e3ec384a8a883e8083029663a43532
+J
+src/arrays/ArraysEx12.java,4/d/4d9127eaa7085703e51eaab2a37033e6d8b81ee3
+J
+src/arrays/ArraysEx13.java,2/a/2a0393eeca4c804422347d20f41c34fb2d7926fa

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Ex #12 of Arrays theme">
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysEx13.java" afterDir="false" />
+    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Ex #13 of Arrays theme">
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysEx14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696707830877</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add Ex #13 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696715229435</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696715229435</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +193,7 @@
     <MESSAGE value="add Ex #10 of Arrays theme" />
     <MESSAGE value="add Ex #11 of Arrays theme" />
     <MESSAGE value="add Ex #12 of Arrays theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Ex #12 of Arrays theme" />
+    <MESSAGE value="add Ex #13 of Arrays theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Ex #13 of Arrays theme" />
   </component>
 </project>
