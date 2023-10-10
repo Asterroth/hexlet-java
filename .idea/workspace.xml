@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Arrays challenge 03">
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysCh06.java" afterDir="false" />
+    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Arrays challenge 06">
+      <change afterPath="$PROJECT_DIR$/src/arrays/ArraysCh10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696934237688</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Arrays challenge 06">
+      <option name="closed" value="true" />
+      <created>1696935323564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696935323564</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -94,17 +102,7 @@
     <MESSAGE value="add README" />
     <MESSAGE value="edit README" />
     <MESSAGE value="add Arrays challenge 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Arrays challenge 03" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arrays/ArraysCh06.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="add Arrays challenge 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Arrays challenge 06" />
   </component>
 </project>
