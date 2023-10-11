@@ -65,3 +65,9 @@ J
 src/arrays/ArraysCh09.java,5/3/53e00901f40e801abc8d10a0d031caa81a83ff52
 J
 src/arrays/ArraysCh01.java,3/7/378d6bc8a61fbaa28840dce58885d14893660626
+J
+src/arrays/ArraysCh10.java,0/b/0bb5f55267325b633e3e00d3ea304dd36f306f2f
+J
+src/arrays/ArraysCh04.java,8/1/813a009f0d0e9b6b77412713fd924fcd2abe8ca6
+J
+src/arrays/ArraysCh07.java,e/9/e90b81b6ae22716896c0b0dd52b7876a9c3d53ea
