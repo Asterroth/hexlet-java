@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Arrays challenge 06">
-      <change afterPath="$PROJECT_DIR$/src/OOP/OOP_Ex01.java" afterDir="false" />
+    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add OOP exercise 01">
+      <change afterPath="$PROJECT_DIR$/src/OOP/OPP_Ex02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696935323564</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add OOP exercise 01">
+      <option name="closed" value="true" />
+      <created>1697199558580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697199558581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +116,8 @@
     <MESSAGE value="edit README" />
     <MESSAGE value="add Arrays challenge 03" />
     <MESSAGE value="add Arrays challenge 06" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Arrays challenge 06" />
+    <MESSAGE value="add Arrays challenge 08" />
+    <MESSAGE value="add OOP exercise 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="add OOP exercise 01" />
   </component>
 </project>
