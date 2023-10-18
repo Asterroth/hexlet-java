@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add OOP exercise 06">
+    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add OOP challenge 02">
+      <change afterPath="$PROJECT_DIR$/src/OOP/OOP_Ch04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697545801342</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add OOP challenge 02">
+      <option name="closed" value="true" />
+      <created>1697628151373</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697628151373</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +144,7 @@
     <MESSAGE value="add OOP exercise 01" />
     <MESSAGE value="add OOP exercise 02" />
     <MESSAGE value="add OOP exercise 06" />
-    <option name="LAST_COMMIT_MESSAGE" value="add OOP exercise 06" />
+    <MESSAGE value="add OOP challenge 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="add OOP challenge 02" />
   </component>
 </project>
