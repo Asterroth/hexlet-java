@@ -1,7 +1,7 @@
 package OOP;
 
 
-import static io.hexlet.Utils.gcd;
+//import static io.hexlet.Utils.gcd;
 
 // BEGIN
 class Rational {
@@ -10,9 +10,9 @@ class Rational {
     private int denom;
 
     Rational(int numer, int denom) {
-        var gcd = gcd(numer, denom);
-        this.numer = numer / gcd;
-        this.denom = denom / gcd;
+        //var gcd = gcd(numer, denom);
+        //this.numer = numer / gcd;
+        //this.denom = denom / gcd;
     }
 
     public int getNumer() {
