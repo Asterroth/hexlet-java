@@ -4,14 +4,81 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add OOP challenge 04">
-      <change afterPath="$PROJECT_DIR$/src/io/hexlet/project61/Even.java" afterDir="false" />
+    <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Challenge #4 of Arrays theme">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/01da6cac60e3ec384a8a883e8083029663a43532" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0bb5f55267325b633e3e00d3ea304dd36f306f2f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14e30cb890ba2438a5c310a9c1c7c39a98887e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19d955a3aa8f173156f0b532cb2279617b412a3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/259a1829d11b15d6a76cf903925e13678d84f877" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a0393eeca4c804422347d20f41c34fb2d7926fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eb761662e0eaec73a35925d4280305b330a0284" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/378d6bc8a61fbaa28840dce58885d14893660626" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4ceea9ba4efac7725acbcbf19e0baf44b0718622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d9127eaa7085703e51eaab2a37033e6d8b81ee3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/533598c849eb1626539d1c5018d5025a075d7dc7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53e00901f40e801abc8d10a0d031caa81a83ff52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5ac763e9f7d1bf02ee712301e9318613b26609b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70b732771fcb77b8735172ed45222bb5ae2a007d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/813a009f0d0e9b6b77412713fd924fcd2abe8ca6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/8302a5e6e013dc54b7040e083f5abf69632f41a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/9240501796f7c2ec1a4fb604f5a3e1feb85e074b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/97cce1b2805f554d3ec563cca9b0de033befa9bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a563b30981fbffecd83224b08276ea81ceac20bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa09323c304d5ea465ade8036ee7d601e3090cee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b49d522869f07c294fd255fbb27187df92d3fe40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbd43aea6b609e5913a84034087b95ddcc7d99b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be67372747b17e786811d64ed43227023a3ea1e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d691215104f3ed09a4246ca88ceda0758f273047" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e90b81b6ae22716896c0b0dd52b7876a9c3d53ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/1/01da6cac60e3ec384a8a883e8083029663a43532" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/b/0bb5f55267325b633e3e00d3ea304dd36f306f2f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/4/14e30cb890ba2438a5c310a9c1c7c39a98887e75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/9/19d955a3aa8f173156f0b532cb2279617b412a3e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/5/259a1829d11b15d6a76cf903925e13678d84f877" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/a/2a0393eeca4c804422347d20f41c34fb2d7926fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/e/2eb761662e0eaec73a35925d4280305b330a0284" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/7/378d6bc8a61fbaa28840dce58885d14893660626" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/c/4ceea9ba4efac7725acbcbf19e0baf44b0718622" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/d/4d9127eaa7085703e51eaab2a37033e6d8b81ee3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/3/533598c849eb1626539d1c5018d5025a075d7dc7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/3/53e00901f40e801abc8d10a0d031caa81a83ff52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/a/5ac763e9f7d1bf02ee712301e9318613b26609b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/0/70b732771fcb77b8735172ed45222bb5ae2a007d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/1/813a009f0d0e9b6b77412713fd924fcd2abe8ca6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/3/8302a5e6e013dc54b7040e083f5abf69632f41a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/9240501796f7c2ec1a4fb604f5a3e1feb85e074b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/7/97cce1b2805f554d3ec563cca9b0de033befa9bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a563b30981fbffecd83224b08276ea81ceac20bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/a/aa09323c304d5ea465ade8036ee7d601e3090cee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/4/b49d522869f07c294fd255fbb27187df92d3fe40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/b/bbd43aea6b609e5913a84034087b95ddcc7d99b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/e/be67372747b17e786811d64ed43227023a3ea1e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/6/d691215104f3ed09a4246ca88ceda0758f273047" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/9/e90b81b6ae22716896c0b0dd52b7876a9c3d53ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/project61/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/project61/Cli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/project61/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/project61/Progression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/hexlet/project61/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lists/ListsEx04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/hexlet/project61/Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/hexlet/project61/Even.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,9 +90,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2WDoo4dbq3ZewY28r8OGkdWVoup" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,15 +101,20 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/am/.mvnvm/apache-maven-3.9.4&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/am/hexlet-java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -50,26 +122,6 @@
     ]
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.hexlet.project61.Even" />
-      <module name="hexlet-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.hexlet.project61.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Even" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,93 +155,145 @@
       <option name="project" value="LOCAL" />
       <updated>1696277653915</updated>
     </task>
-    <task id="LOCAL-00004" summary="add Arrays challenge 03">
+    <task id="LOCAL-00004" summary="add Ex #1 of Arrays theme">
       <option name="closed" value="true" />
-      <created>1696934237688</created>
+      <created>1696411884571</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1696934237688</updated>
+      <updated>1696411884571</updated>
     </task>
-    <task id="LOCAL-00005" summary="add Arrays challenge 06">
+    <task id="LOCAL-00005" summary="add Ex #2 and 3 of Arrays theme">
       <option name="closed" value="true" />
-      <created>1696935323564</created>
+      <created>1696525698856</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1696935323564</updated>
+      <updated>1696525698856</updated>
     </task>
-    <task id="LOCAL-00006" summary="add OOP exercise 01">
+    <task id="LOCAL-00006" summary="add Ex #2 and 3 of Arrays theme">
       <option name="closed" value="true" />
-      <created>1697199558580</created>
+      <created>1696525882200</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1697199558581</updated>
+      <updated>1696525882200</updated>
     </task>
-    <task id="LOCAL-00007" summary="add OOP exercise 02">
+    <task id="LOCAL-00007" summary="add Ex #4 of Arrays theme">
       <option name="closed" value="true" />
-      <created>1697201925656</created>
+      <created>1696529090900</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1697201925656</updated>
+      <updated>1696529090901</updated>
     </task>
-    <task id="LOCAL-00008" summary="add OOP exercise 06">
+    <task id="LOCAL-00008" summary="add Ex #5 of Arrays theme">
       <option name="closed" value="true" />
-      <created>1697545801342</created>
+      <created>1696532271350</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1697545801342</updated>
+      <updated>1696532271350</updated>
     </task>
-    <task id="LOCAL-00009" summary="add OOP challenge 02">
+    <task id="LOCAL-00009" summary="add Ex #6 of Arrays theme">
       <option name="closed" value="true" />
-      <created>1697628151373</created>
+      <created>1696536573607</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1697628151373</updated>
+      <updated>1696536573607</updated>
     </task>
-    <task id="LOCAL-00010" summary="add OOP challenge 04">
+    <task id="LOCAL-00010" summary="add Ex #10 of Arrays theme">
       <option name="closed" value="true" />
-      <created>1697634395125</created>
+      <created>1696616604389</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1697634395125</updated>
+      <updated>1696616604389</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add Ex #10 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696620750687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696620750687</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add Ex #11 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696627608657</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696627608657</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add Ex #12 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696707830877</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696707830877</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add Ex #13 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696715229435</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696715229435</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add Ex #14 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696772211579</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696772211579</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add Challenge #5 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696795175220</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696795175220</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add Challenge #5 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696796414709</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696796414709</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add Challenge #4 of Arrays theme">
+      <option name="closed" value="true" />
+      <created>1696963480914</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696963480914</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add hexlet-java" />
     <MESSAGE value="add README" />
     <MESSAGE value="edit README" />
-    <MESSAGE value="add Arrays challenge 03" />
-    <MESSAGE value="add Arrays challenge 06" />
-    <MESSAGE value="add Arrays challenge 08" />
-    <MESSAGE value="add OOP exercise 01" />
-    <MESSAGE value="add OOP exercise 02" />
-    <MESSAGE value="add OOP exercise 06" />
-    <MESSAGE value="add OOP challenge 02" />
-    <MESSAGE value="add OOP challenge 04" />
-    <option name="LAST_COMMIT_MESSAGE" value="add OOP challenge 04" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="add Ex #1 of Arrays theme" />
+    <MESSAGE value="add Ex #2 and 3 of Arrays theme" />
+    <MESSAGE value="add Ex #4 of Arrays theme" />
+    <MESSAGE value="add Ex #5 of Arrays theme" />
+    <MESSAGE value="add Ex #6 of Arrays theme" />
+    <MESSAGE value="add Ex #10 of Arrays theme" />
+    <MESSAGE value="add Ex #11 of Arrays theme" />
+    <MESSAGE value="add Ex #12 of Arrays theme" />
+    <MESSAGE value="add Ex #13 of Arrays theme" />
+    <MESSAGE value="add Ex #14 of Arrays theme" />
+    <MESSAGE value="add Challenge #5 of Arrays theme" />
+    <MESSAGE value="add Challenge #4 of Arrays theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Challenge #4 of Arrays theme" />
   </component>
 </project>

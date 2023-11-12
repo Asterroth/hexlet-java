@@ -1,0 +1,19 @@
+
+R
+java:S1066Œ"/Merge this if statement with the enclosing one.(éÉü»ûÿÿÿÿ8ç§ê²±1
+M
+java:S1066œ"/Merge this if statement with the enclosing one.(Ó¨áò8è§ê²±1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ğáä8› Ë²±1
+L	java:S106"+Replace this use of System.out by a logger.(£›Õ­ÿÿÿÿÿ8 Ë²±1
+]	java:S125"<This block of commented-out lines of code should be removed.(“éÕôûÿÿÿÿ8 Ë²±1
+L	java:S106/"+Replace this use of System.out by a logger.(ÂÑ€ûÿÿÿÿ8 Ë²±1
+G	java:S1060"+Replace this use of System.out by a logger.(Çˆá8 Ë²±1
+L	java:S1061"+Replace this use of System.out by a logger.(ª«şÿÿÿÿÿ8 Ë²±1
+G	java:S1062"+Replace this use of System.out by a logger.(˜§³Š8 Ë²±1
+G	java:S1063"+Replace this use of System.out by a logger.(ö÷´8­ƒÏ²±1
+c
+java:S1126J"AReplace this if-then-else statement by a single return statement.(üÏóüıÿÿÿÿ8  Ë²±1
+E
+java:S1481R"(Remove this unused "val" local variable.(³‚¦‡8  Ë²±1
+o
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Éª»8º§Û²±1

@@ -71,3 +71,19 @@ J
 src/arrays/ArraysCh04.java,8/1/813a009f0d0e9b6b77412713fd924fcd2abe8ca6
 J
 src/arrays/ArraysCh07.java,e/9/e90b81b6ae22716896c0b0dd52b7876a9c3d53ea
+J
+src/arrays/ArraysCh08.java,8/3/8302a5e6e013dc54b7040e083f5abf69632f41a5
+J
+src/arrays/ArraysCh02.java,2/5/259a1829d11b15d6a76cf903925e13678d84f877
+P
+ src/io/hexlet/project61/Cli.java,9/7/977a4b034140ca968bfd1f4ba88725439e74521c
+S
+#src/io/hexlet/project61/Engine.java,1/7/17886b4cf8ebff3f8d6a8dd6650bcd3955642358
+Q
+!src/io/hexlet/project61/Even.java,6/f/6f3d0940e3645b84ac64a14619d9edb77a2de570
+P
+ src/io/hexlet/project61/App.java,5/4/54a0c7d788817f7bc218ae786a935cc78af49783
+X
+(src/io/hexlet/project61/Progression.java,e/1/e1734279b229c03aa9265320888dabc341de9c2f
+R
+"src/io/hexlet/project61/Utils.java,3/5/3593bfd6866f4af8f1c856e37f38bad92c4f50d2

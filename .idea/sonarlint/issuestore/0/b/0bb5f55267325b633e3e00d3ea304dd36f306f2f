@@ -1,0 +1,8 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(„³ä÷
+@	java:S106"+Replace this use of System.out by a logger.(ßûÇÏ
+C
+java:S1481$"(Remove this unused "row" local variable.(¬íÃèÿÿÿÿÿ
+C
+java:S14812"(Remove this unused "row" local variable.(¬íÃèÿÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(Ò¿çòøÿÿÿÿ
