@@ -181,3 +181,9 @@ H
 src/lists/ListsEx05.java,f/f/ff896a034a11c7c4969271b74cd70cc64730e417
 H
 src/lists/ListsEx07.java,c/c/cc89986e7dc647c0acf1798fc3950647bcaa2f4f
+F
+src/maps/MapsEx01.java,6/3/63b21e08eb261c1f293e102b11b9f22f5c525be3
+F
+src/maps/MapsEx02.java,a/a/aa2f5661f8b25b9c09cbd3394d5abe94adf17cb8
+F
+src/maps/MapsEx03.java,c/c/cc76c7909056d7d6dafac6d1ee669102af6f0d93

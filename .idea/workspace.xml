@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f426dc3-d2bf-430d-ad7b-68f0172bf5f2" name="Changes" comment="add Ex05,6,7 of Lists theme">
-      <change afterPath="$PROJECT_DIR$/src/maps/MapsEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps/MapsEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maps/MapsEx03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
